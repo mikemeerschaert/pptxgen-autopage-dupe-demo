@@ -1,0 +1,24 @@
+{
+  "name": "pptxgen-autopage-dupe-demo",
+  "version": "1.0.0",
+  "description": "demonstrates bug in gitbrent / PptxGenJS where using a text array causes text to be duplicated in a table cell",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemeerschaert/pptxgen-autopage-dupe-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikemeerschaert/pptxgen-autopage-dupe-demo/issues"
+  },
+  "homepage": "https://github.com/mikemeerschaert/pptxgen-autopage-dupe-demo#readme",
+  "dependencies": {
+    "pptxgenjs": "^3.10.0"
+  }
+}
